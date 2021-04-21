@@ -1,0 +1,9 @@
+C:\Users\dev\source\repos\WinFormsLesson3\WinFormsLesson3\bin\Debug\WinFormsLesson3.exe.config
+C:\Users\dev\source\repos\WinFormsLesson3\WinFormsLesson3\bin\Debug\WinFormsLesson3.exe
+C:\Users\dev\source\repos\WinFormsLesson3\WinFormsLesson3\bin\Debug\WinFormsLesson3.pdb
+C:\Users\dev\source\repos\WinFormsLesson3\WinFormsLesson3\obj\Debug\WinFormsLesson3.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\WinFormsLesson3\WinFormsLesson3\obj\Debug\WinFormsLesson3.Properties.Resources.resources
+C:\Users\dev\source\repos\WinFormsLesson3\WinFormsLesson3\obj\Debug\WinFormsLesson3.csproj.GenerateResource.cache
+C:\Users\dev\source\repos\WinFormsLesson3\WinFormsLesson3\obj\Debug\WinFormsLesson3.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\WinFormsLesson3\WinFormsLesson3\obj\Debug\WinFormsLesson3.exe
+C:\Users\dev\source\repos\WinFormsLesson3\WinFormsLesson3\obj\Debug\WinFormsLesson3.pdb
